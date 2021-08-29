@@ -1,0 +1,11 @@
+"essential
+inoremap jk <esc>
+let mapleader = " "
+let maplocalleader = "-"
+
+nnoremap <leader>ev :split $MYVIMRC<CR>
+nnoremap <leader>sv :source $MYVIMRC<CR>
+
+"NERDTree
+nnoremap <leader>nf :NERDTreeFocus<CR>
+nnoremap <leader>nt :NERDTreeToggle<CR>

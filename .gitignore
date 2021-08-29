@@ -1,4 +1,5 @@
 *
+*.swp
 
 !.gitignore
 !README.md
